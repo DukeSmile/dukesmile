@@ -50,8 +50,6 @@
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
       </div>
-
-    </td>
   </tr>
 </table>
 <hr>
