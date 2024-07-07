@@ -1,6 +1,6 @@
 <h2>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-    WECOME TO MY GITHUB
+    I am ready to make your dream to live.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h2>
 
@@ -54,12 +54,10 @@
 </table>
 <hr>
 ===⭐=== My strengths in frontend side ===⭐===
-
+⭐⭐⭐⭐⭐ HTML | Javascript
+⭐⭐⭐⭐⭐ BootstrapCSS | SASS | LESS | TailwindCSS | PostCSS
+⭐⭐⭐⭐⭐ ReactJS | VueJS | AngularJS | GatsbyJS | AplineJS | jQuery
 * Develop Pixel Perfect pages according to designs
-* Strong basics of HTML | CSS | JAVASCRIPT | JQUERY
-* BootstrapCSS | SASS | LESS | TailwindCSS | PostCSS
-* Good to have Single page application with javascript
-Angular2-13 | ReactJS | VueJS | NextJS | GatsbyJS | AplineJS …
 * User friendly pages according to UX/UI
 * Functional pages: EditableTable | Chart | Map | 3D modeling
 * Friendly with design tools: Figma | XD | PSD | Sketch
@@ -69,9 +67,7 @@ Angular2-13 | ReactJS | VueJS | NextJS | GatsbyJS | AplineJS …
 * Python and Django
 * PHP frameworks: Ci, Wordpress, Laravel, Yii2 ...
 * E-commerce : PrestaShop, Shopify, Magento
-* Database: MySQL, MsSQL, PostgreSQL, MariaDB, MongoDB
-* 3rd Party: Oauth, AWS, Googld platform: Firebase
-* Testing: lint testing, e2e testing, unit testing
-* Hosting with Firebase, Netlify, Heroke, Github and so on
-* TradingView, ML, Bots on trading, chatting and gaming
+* ⭐⭐⭐⭐⭐ Database: MySQL, MsSQL, PostgreSQL, MariaDB, MongoDB
+* ⭐⭐⭐⭐   3rd Party: Oauth, AWS, Googld platform: Firebase
+* ⭐⭐⭐⭐ TradingView, ML, Bots on trading, chatting and gaming
 
